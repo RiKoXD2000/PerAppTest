@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.PerchanceChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <color name="app_background">#0d0c14</color>
+    <color name="app_accent">#7c72ff</color>
+</resources>
